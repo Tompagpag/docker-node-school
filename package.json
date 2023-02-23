@@ -1,0 +1,24 @@
+{
+  "name": "docker-node-school",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tompagpag/docker-node-school.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tompagpag/docker-node-school/issues"
+  },
+  "homepage": "https://github.com/Tompagpag/docker-node-school#readme",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "keypress": "^0.2.1"
+  }
+}
